@@ -34,12 +34,8 @@ This project is a clean and responsive login form designed using pure HTML and C
 
 ## ✨ Features
 - Fully responsive design
-- Clean, modern layout
-- No external frameworks used
-- Beginner-friendly code
+- Clean, modern layout!
 
-## 📂 Preview - copy the link on your browser)
-[     http://127.0.0.1:5500/html/loginpage.html   )
-
+- ![Screenshot 2025-07-03 135325](https://github.com/user-attachments/assets/0249bf1b-896f-4b29-b6c9-00d4dea8e045)
 
 
