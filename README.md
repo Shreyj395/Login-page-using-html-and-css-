@@ -29,11 +29,7 @@ This project is a neat, modern login form built with HTML & CSS — no framework
 A simple, responsive login page created for learning and practice.  
 Feel free to fork it, modify it, and make it your own! 🚀`
 
-**➡ Example of How You Can Write It on GitHub README.md:**
-
-```markdown
 # 🔐 Login Page using HTML & CSS
-
 This project is a clean and responsive login form designed using pure HTML and CSS. It's perfect for beginners looking to practice form layouts and CSS styling.
 
 ## ✨ Features
@@ -42,7 +38,7 @@ This project is a clean and responsive login form designed using pure HTML and C
 - No external frameworks used
 - Beginner-friendly code
 
-## 📂 Preview
+## 📂 Preview - copy the link on your browser)
 [     http://127.0.0.1:5500/html/loginpage.html   )
 
 
